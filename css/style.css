@@ -96,3 +96,111 @@ nav img
     margin-top: 0px;
     margin-bottom: 40px;
 }
+
+/* service-area */
+
+#service-area
+{
+    background-image: url("../img/service-bg.jpg");
+}
+
+#service-area .content
+{
+    padding-top: 100px;
+}
+
+#service-area .content .title
+{
+    font-size: 50px;
+    font-weight: 600;
+    color: #4a494b;
+
+    padding: 25px 600px 40px 600px;
+}
+
+#service-area .c-block
+{
+    background: #ffffff;
+    max-width: 270px;
+    height: 60px;
+
+    margin-right: 30px;
+    margin-bottom: 30px;
+    line-height:60px;
+}
+#service-area .c-block a
+{
+    font-size: 16px;
+    color: #6c6c6c;
+}
+#service-area .null-block
+{
+    max-width: 270px;
+    height: 60px;
+
+    margin-right: 30px;
+    margin-bottom: 100px;
+}
+
+/* team-area */
+#team-area .line
+{
+    border: solid 1px;
+    width: 62px;
+    color: #d7ac41;
+    margin-top: 100px;
+    margin-bottom: 25px;
+}
+#team-area .title
+{
+    font-size: 50px;
+    font-weight: 600;
+    color: #4a494b;
+
+    padding: 25px 600px 40px 600px;
+}
+
+#team-area .t-persons
+{
+    margin-left: 135px;
+    margin-right: 135px;
+}
+#team-area .t-person
+{
+    /* margin-right: 30px; */
+}
+#team-area .t-person img
+{
+    width: 270px;
+    height: 400px;
+}
+#team-area .t-person .content
+{
+    padding-left: 30px;
+}
+#team-area .t-person p
+{
+    font-size: 16px;
+    color: #6c6c6c;
+}
+#team-area .t-person .p-name
+{
+    color: rgba(0, 0, 0, 0.6);
+    font-size: 50px;
+    font-weight: 600;
+    padding-top: 40px;
+}
+#team-area .t-person .p-title
+{
+    font-size: 16px;
+    font-weight: 300;
+    margin-bottom: 18px;
+}
+#team-area .t-person .p-say
+{
+    margin-bottom: 16px;
+}
+#team-area .t-person .p-content
+{
+    margin-bottom: 20px;
+}
