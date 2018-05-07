@@ -23,6 +23,7 @@ nav img
     color: #d7ac41 ;
 }
 
+/* top-area */
 #top-area
 {
     background-image: url("../img/top-banner.jpg");
@@ -44,4 +45,54 @@ nav img
 {
     font-size: 24px;
     text-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+
+/* about-area */
+#about-area
+{
+    background-image: url("../img/about-bg.jpg");
+}
+
+#about-area img
+{
+    padding: 100px 660px 40px 660px;
+}
+
+#about-area .content
+{
+    margin-left: 335px;
+    margin-right: 335px;
+}
+
+#about-area .content .section
+{
+    text-align: left;
+    padding-bottom: 40px;
+}
+#about-area .content .section-3
+{
+    padding-bottom: 100px;
+}
+#about-area .content .section .text
+{
+    font-size: 16px;
+    color: #adadad;
+    font-weight: 300;
+    line-height: 1.62;
+}
+
+#about-area .content .section .text-big
+{
+    font-size: 24px;
+    color: #ffffff;
+    font-weight: 600;
+}
+#about-area .line
+{
+    border: solid 1px;
+    width: 62px;
+    color: #d7ac41;
+    margin-top: 0px;
+    margin-bottom: 40px;
 }
