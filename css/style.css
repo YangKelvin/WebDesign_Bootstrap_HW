@@ -2,4 +2,23 @@ nav img
 {
     width: 443px;
     height: 80px;
+
+    margin-left: 60px;
+    margin-right: 350px;
+}
+
+#myNavbar ul
+{
+    margin-right: 70px;
+}
+
+#myNavbar ul li a
+{
+    font-size: 14px;
+    color: #6c6c6c;
+    margin-right: 30px;
+}
+#myNavbar ul li a:hover
+{
+    color: #d7ac41 ;
 }
