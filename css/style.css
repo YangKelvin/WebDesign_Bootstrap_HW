@@ -204,3 +204,9 @@ nav img
 {
     margin-bottom: 20px;
 }
+
+#team-area .all-member-block
+{
+    width: 270px;
+    height: 60px;
+}
