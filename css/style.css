@@ -22,3 +22,26 @@ nav img
 {
     color: #d7ac41 ;
 }
+
+#top-area
+{
+    background-image: url("../img/top-banner.jpg");
+    background-attachment: fixed;
+    
+}
+#top-area .top-text
+{
+    margin: 335px 315px;
+}
+#top-area .top-text .title
+{
+    font-size: 80px;
+    font-weight: 600;
+    letter-spacing: 10px;
+    text-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
+}
+#top-area .top-text .content
+{
+    font-size: 24px;
+    text-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
+}
