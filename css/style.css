@@ -275,8 +275,8 @@ footer
 {
     background: #2b2c2c;
     color: #adadad;
-    width: 1440px;
-    height: 48px;
+    /* width: 1440px; */
     font-size: 16px;
+    line-height: 48px;
 }
 
